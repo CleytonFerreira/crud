@@ -4,6 +4,11 @@
       "name": "Teste Um",
       "email": "teste@email.com",
       "id": 1
+    },
+    {
+      "name": "Teste Dois",
+      "email": "teste2@outlook.com",
+      "id": 2
     }
   ]
 }
